@@ -85,6 +85,5 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
 - By email: jaydipbaraiya614@gmail.com
-- By visiting this page on our website: jaydip614.github.io/portfolio
-t us at:
+- By visiting this page on our website: [jaydip614.github.io/portfolio](https://jaydip614.github.io/portfolio/)
 
