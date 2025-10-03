@@ -63,7 +63,7 @@ Your consent to this Privacy Policy followed by your submission of such informat
 Presence App may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 - To comply with a legal obligation
-- To protect and defend the rights or property of Expense Tracker
+- To protect and defend the rights or property of Presence App
 - To prevent or investigate possible wrongdoing in connection with the service
 - To protect the personal safety of users of the service or the public
 - To protect against legal liability
